@@ -9,7 +9,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
     for filename in filenames:
         print(os.path.join(dirname, filename))
 
-df=pd.read_csv("/kaggle/input/heart-disease-uci/heart.csv")
+df=pd.read_csv("heart.csv")
 df.head()
 
 df.info()
