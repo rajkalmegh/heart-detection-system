@@ -1,1 +1,1 @@
-# heart-detection-system
+# Heart-Disease-Prediction-Model
